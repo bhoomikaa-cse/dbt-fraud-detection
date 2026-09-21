@@ -1,0 +1,19 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Scratch files
+files.zip
+Untitled.ipynb
+anaconda_projects/
+.vscode/
