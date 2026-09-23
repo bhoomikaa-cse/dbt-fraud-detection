@@ -3,6 +3,7 @@
 An unsupervised anomaly detection system that flags suspicious transactions in simulated Direct Benefit Transfer (DBT) welfare payouts — built without any labeled fraud data, using Isolation Forest.
 
 ![Dashboard Header](screenshots/dashboard_header.png)
+**[Live Demo](https://dbt-fraud-detection-f9eem64qgjxfgsd853bgwn.streamlit.app/)**
 
 ## Problem
 
