@@ -2,7 +2,7 @@
 
 An unsupervised anomaly detection system that flags suspicious transactions in simulated Direct Benefit Transfer (DBT) welfare payouts — built without any labeled fraud data, using Isolation Forest.
 
-![Dashboard Header](dashboard_header.png)
+![Dashboard Header](screenshots/dashboard_header.png)
 
 ## Problem
 
@@ -37,15 +37,15 @@ Isolation Forest clearly outperformed LOF. LOF's weakness traces back to its rel
 
 **Flagged transactions, filterable by scheme and district:**
 
-![Flagged Transactions](flagged_transactions.png)
+![Flagged Transactions](screenshots/flagged_transactions.png)
 
 **Fraud pattern distributions across the dataset:**
 
-![Fraud Patterns Overview](fraud_patterns_overview.png)
+![Fraud Patterns Overview](screenshots/fraud_patterns_overview.png)
 
 **Per-beneficiary investigation view** — a single fraudulent spike, clearly visible against a stable monthly baseline:
 
-![Beneficiary Drilldown](beneficiary_drilldown.png)
+![Beneficiary Drilldown](screenshots/beneficiary_drilldown.png)
 
 ## Tech Stack
 
